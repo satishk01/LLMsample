@@ -2,7 +2,6 @@ from langchain.chains import RetrievalQA
 from langchain.document_loaders import PyPDFLoader
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from pdf2image import convert_from_path
 from langchain.vectorstores import FAISS     
 
 
