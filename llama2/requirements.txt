@@ -1,0 +1,9 @@
+sentence-transformers==2.2.2
+pypdf==3.8.1
+pygpt4all==1.1.0
+faiss-cpu
+langchain
+python-dotenv==1.0.0
+chainlit
+ctransformers
+accelerate
