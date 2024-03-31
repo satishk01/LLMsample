@@ -32,5 +32,10 @@ pip install scipy
 pip install numpy
 
 
+Steps to run the code
+
+streamlit run app.py
+
+
 
 
