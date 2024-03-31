@@ -1,3 +1,11 @@
+how to create a virtual environment
+
+python3 -m venv demo
+cd demo
+source ~/demo/bin/activate
+
+
+
 Hugging face cli installer
 
 pip install -U "huggingface_hub[cli]"
@@ -26,10 +34,11 @@ Other package installation
 
 pip install pyyaml==6.0.1
 pip install Pillow==10.2.0
-pip install transformers==3.38.2
+pip install transformers
 pip install torch==2.1
 pip install scipy
 pip install numpy
+pip install streamlit
 
 
 Steps to run the code
